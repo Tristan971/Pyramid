@@ -14,9 +14,9 @@ public class Main {
         sleep(4000);
 
         //vertiRamid("Kappa", "krippW");
-        //type("scriptmod joined channel PogChamp");
-        //enter();
-        endRamidWithSpecial("TriHard", "KappaPride", "sjjW");
+        type("finally a good pyramid PogChamp");
+        enter();
+        //endRamidWithSpecial("TriHard", "KappaPride", "sjjW");
         //type("Sup guys, sup jj! KappaPride");
 
         //windmill("sjjW", "NightBat");
@@ -24,10 +24,10 @@ public class Main {
         //frenchFlag();
         //windmill("ANELE", "NightBat");
         //enter();
-        type("NAZI MOD CHECKING IN DatSheffy sjjW");
+        //type("NAZI MOD CHECKING IN DatSheffy sjjW");
         enter();
         //naziFlag();
-        //normalRamid("PYRAMID", "", 0);
+        normalRamid("sjjW", "", 0);
         enter();
     }
 
