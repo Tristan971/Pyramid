@@ -196,46 +196,6 @@ public class Main {
         return temp;
     }
 
-    public static void sjjW() {
-        type("sjjW");
-        space();
-    }
-
-    public static void krippW() {
-        type("krippW");
-        space();
-    }
-
-    public static void SMOrc() {
-        type("SMOrc");
-        space();
-    }
-
-    public static void PJSalt() {
-        type("PJSalt");
-        space();
-    }
-
-    public static void illuminati() {
-        type("deIlluminati");
-        space();
-    }
-
-    public static void Kappa() {
-        type("Kappa");
-        space();
-    }
-
-    public static void PogChamp() {
-        type("PogChamp");
-        space();
-    }
-
-    public static void krippWall() {
-        type("krippWall");
-        space();
-    }
-
     public static void enter() {
         Robot robot;
         try {
